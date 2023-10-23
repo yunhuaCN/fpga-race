@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/15215/Desktop/fpga-race/fpga-race/race/sim/behav
+vled_light
+!s110 1698036903
+!i10b 1
+!s100 WJV22HelMaWVB0f2m<Y^^1
+IL2MHcUOeWXH5OLY@6flFZ3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1698036585
+8C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v
+FC:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v
+L0 24
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1698036903.000000
+!s107 C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v|
+!s90 -reportprogress|300|-work|work|C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v|C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v|
+!i113 1
+o-work work
+tCvgOpt 0
