@@ -2,3 +2,5 @@
 
 add_design "C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v"
 add_simulation "C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v"
+add_simulation "C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v"
+add_design "C:/Users/15215/Desktop/fpga-race/fpga-race/race/source/main.v"
